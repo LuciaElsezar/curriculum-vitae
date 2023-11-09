@@ -1,0 +1,32 @@
+{
+    "lenguajesProgramacion":[
+        {
+            "lenguaje": "Python",
+            "nivel": "3"
+        },
+        {
+            "lenguaje": "Html",
+            "nivel": "2"
+        },
+        {
+            "lenguaje": "Css",
+            "nivel": "2"
+        },
+        {
+            "lenguaje": "Javascript",
+            "nivel": "3"
+        },
+        {
+            "lenguaje": "C++",
+            "nivel":"1"
+        },
+        {
+            "lenguaje":"MySql",
+            "nivel":"3"
+        },
+        {
+            "lenguaje":"Java",
+            "nivel":"1"
+        }
+    ]
+}

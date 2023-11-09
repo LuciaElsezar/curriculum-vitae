@@ -1,0 +1,11 @@
+<h2 class="titulo">
+    Lenguajes de Programación
+</h2>
+<div *ngFor="let lenguajeProgramacion of lenguajesProgramacion">
+    <h5 class="list-item">
+        {{lenguajeProgramacion.lenguaje}}
+    </h5>
+    <progress value="{{lenguajeProgramacion.nivel}}" max="5" class="list-subitem"></progress>
+</div>
+
+    

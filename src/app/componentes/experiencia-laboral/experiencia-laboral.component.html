@@ -1,0 +1,12 @@
+<h1 class="titulo">
+    Experiencia Laboral
+</h1>
+<div *ngFor = "let experiencia of experienciaLaboral">
+    <h4 class="list-item"> {{ experiencia.puesto }}</h4>
+    <h5 class="list-subitem">Institución: {{ experiencia.compania }}</h5>
+    <h5 class="list-subitem">{{ experiencia.duracion }}</h5>
+    <h4 class="list-item">Tareas Asignadas:</h4>
+    <h5 *ngFor = "let tarea of experiencia.tareasAsignadas" class="list-subitem">{{tarea}}</h5>
+    <h4 class="list-item">Mayor logro:</h4>
+    <p class="list-subitem">"{{experiencia.mayorLogro}}"</p>
+</div>

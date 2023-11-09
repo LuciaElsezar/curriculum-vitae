@@ -1,0 +1,10 @@
+{
+    "datosPersonales": {
+        "fotoPerfil": "../../../assets/fotos/pfp.jpg",
+        "nombre": "Lucía",
+        "apellido": "Elsezar",
+        "numeroTelefono":"(+54) 9 2945 35-1855",
+        "email": "luciaelsezaravila@gmail.com",
+        "perfilPersonal": "Estudiante aspirante a tecnica informática, con ambición de participar en proyectos relacionados a la programación"
+    }
+}

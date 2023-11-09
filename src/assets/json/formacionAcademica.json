@@ -1,0 +1,14 @@
+{
+    "formacionAcademica": [
+        {
+            "titulo": "Técnico Personal y Profesional",
+            "institucion": "Escuela Juan Abdala Chayep",
+            "duracion": "2017-actualmente"
+        },
+        {
+            "titulo": "Introducción a Java",
+            "institucion": "Coursera",
+            "duracion": "2023-actualmente"
+        }
+    ]
+}

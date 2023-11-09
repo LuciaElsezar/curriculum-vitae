@@ -1,0 +1,27 @@
+{
+    "experienciaLaboral": [
+        {
+            "compania": "-",
+            "puesto": "Trabajo a Comisión",
+            "duracion": "2019 - Actualidad",
+            "tareasAsignadas":[
+                "Ilustracion",
+                "Programación",
+                "Diseño Gráfico",
+                "Diseño Web"
+            ],
+            "mayorLogro": "Se cumplieron con las expectativas de las tareas asignadas en tiempo y forma."
+        },
+        {
+            "compania": "Lorem Impsum",
+            "puesto": "blah blah blah",
+            "duracion": "1234 - 1234",
+            "tareasAsignadas":[
+                "item 1",
+                "item 2",
+                "item 3"
+            ],
+            "mayorLogro":"Se cumplieron con las expectativas de las tareas asignadas en tiempo y forma (de nuevo)."
+        }
+    ]
+}

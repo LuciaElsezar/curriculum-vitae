@@ -1,0 +1,14 @@
+{
+    "referencias":[
+        {
+            "nombreApellido": "Juan Elsezar",
+            "email": "escuelasjelsezar@gmail.com",
+            "numeroTelefono": "(+54) 9 2945 35-1855"
+        },
+        {
+            "nombreApellido": "Ivana Rojas Corsico",
+            "email": "irojascorsico@gmail.com",
+            "numeroTelefono": "-"
+        }
+    ]
+}
