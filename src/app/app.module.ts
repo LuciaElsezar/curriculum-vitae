@@ -17,7 +17,7 @@ import { NavbarComponent } from './componentes/navbar/navbar.component';
 import { SidebarComponent } from './componentes/sidebar/sidebar.component';
 import { LenguajesProgramacionComponent } from './componentes/lenguajes-programacion/lenguajes-programacion.component';
 import { MainComponent } from './componentes/main/main.component';
-import { FooterComponent } from './footer/footer.component';
+import { FooterComponent } from './componentes/footer/footer.component';
 
 const routes: Routes = [
   {path: '', component: IndexComponent},
